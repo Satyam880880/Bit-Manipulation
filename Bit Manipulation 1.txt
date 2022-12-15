@@ -1,0 +1,26 @@
+   package com.studyopedia  ;      
+	  
+ import java.util.*;
+import java.util.jar.Attributes.Name;
+
+import javax.management.relation.InvalidRoleInfoException;
+
+
+public class Demo {
+	
+public static void main(String args[]) {
+	
+	System.out. println((5&6));
+	
+	System.out. println((5|6));
+	
+	System.out. println((~5)); // once complement value -6
+	
+	System.out. println((~0));
+	
+	System.out. println((5<<2));
+	
+	System.out. println((6>>1));
+}	
+	
+}
